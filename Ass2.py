@@ -40,15 +40,15 @@ print("Nodes after filtering: " + str(len(graph.nodes)))
 print("Edges after filtering: " + str(len(graph.edges)))
 
 
-degree_centrality_coefficient = nx.degree_centrality(graph)
-values = Counter(degree_centrality_coefficient)
-top_10_degree_cent = values.most_common(10)
+closeness_centrality_dict = nx.closeness_centrality(graph)
+values = Counter(closeness_centrality_dict)
+top_10_closeness = values.most_common(10)
 graph_before_filter = nx.read_gexf('net_il2015-2018.gexf')
-for node_id_dc in top_10_degree_cent:
-    node_id = node_id_dc[0]
+for node_id_cc in top_10_closeness:
+    node_id = node_id_cc[0]
     node = graph_before_filter.nodes()[node_id]
     node_label = node['label']
-    node_degree_centrality = node_id_dc[1]
-    print(node_id, " :", node_label, " :", node_degree_centrality, " ")
+    node_closeness_centrality = node_id_cc[1]
+    print(node_id, " :", node_label, " :", node_closeness_centrality, " ")
 print(nx.clustering(graph))
 # print(nx.diameter(graph))

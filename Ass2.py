@@ -1,6 +1,6 @@
 from collections import Counter
-
 import networkx as nx
+from networkx.algorithms.community import girvan_newman
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -40,15 +40,12 @@ print("Nodes after filtering: " + str(len(graph.nodes)))
 print("Edges after filtering: " + str(len(graph.edges)))
 
 
-closeness_centrality_dict = nx.closeness_centrality(graph)
-values = Counter(closeness_centrality_dict)
-top_10_closeness = values.most_common(10)
-graph_before_filter = nx.read_gexf('net_il2015-2018.gexf')
-for node_id_cc in top_10_closeness:
-    node_id = node_id_cc[0]
-    node = graph_before_filter.nodes()[node_id]
-    node_label = node['label']
-    node_closeness_centrality = node_id_cc[1]
-    print(node_id, " :", node_label, " :", node_closeness_centrality, " ")
+# first_iteration_comm = tuple(sorted(c) for c in next(gn_comm))
+# dict(enumerate(first_iteration_comm))
+
+
+# nx.draw_spring(graph, with_labels=True)
+
+
 print(nx.clustering(graph))
 # print(nx.diameter(graph))

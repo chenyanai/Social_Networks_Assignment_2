@@ -1,0 +1,110 @@
+,betweenness,closeness centrality,clustering coefficient,degree centrality,eigenvector centrality,label,n_bills,party,photo,url,modularity_class
+1,0,0,0.5,0.018518519,1.63E-41,Abd Al Hakeem Haj Yahya,37,Joint List,photos/Haj-Yahya_Abd-Al-Hakeem.jpg,https://oknesset.org/member/923,2
+2,0,0,0.365384615,0.12037037,1.63E-41,Abdullah Abu Maaruf,152,Joint List,photos/Abu-Maaruf_Abdullah.jpg,https://oknesset.org/member/909,2
+3,5.77E-05,0.060606061,0.392857143,0.074074074,1.19E-33,Ahmad Tibi,78,Joint List,photos/tibi_ahmed.jpg,https://oknesset.org/member/208,2
+4,0,0,0.354545455,0.101851852,1.63E-41,Aida Touma-Sliman,133,Joint List,photos/Touma-Sliman_Aida.jpg,https://oknesset.org/member/948,2
+5,0,0,0.336363636,0.101851852,1.63E-41,Aliza Lavie,112,Yesh Atid,photos/Lavie_Aliza.jpg,https://oknesset.org/member/875,1
+6,0,0,0.5,0.018518519,1.63E-41,Amir Peretz,30,Zionist Union,photos/peretz_amir.jpg,https://oknesset.org/member/105,1
+7,0.000125986,0.340700189,0.228947368,0.185185185,1.99E-10,Anat Berko,42,Likud,photos/Berko_Anat.jpg,https://oknesset.org/member/918,0
+8,0,0.123038293,0.15,0.046296296,2.15E-27,Aryeh Machluf Deri,11,Shas,photos/deri_aryeh.jpg,https://oknesset.org/member/41,2
+9,0,0,0.5,0.018518519,1.63E-41,Avi Dichter,23,Likud,photos/dicter_abraham.jpg,https://oknesset.org/member/771,0
+10,0,0.037037037,0.166666667,0.037037037,3.74E-36,Avigdor Liberman,12,Yisrael Beiteinu,photos/liberman_avigdor.jpg,https://oknesset.org/member/214,0
+11,0.002109003,0.364325069,0.16091954,0.277777778,3.36E-12,Avraham Naguisa,59,Likud,photos/Nagosa_Avraham.jpg,https://oknesset.org/member/932,0
+12,0,0,0.28021978,0.12962963,1.63E-41,Ayelet Nahmias-Verbin,84,Zionist Union,photos/Nahmias-Verbin_Ayelet.jpg,https://oknesset.org/member/933,0
+13,0,0,0.5,0.018518519,1.63E-41,Ayelet Shaked,40,The Jewish Home,photos/Shaked_Ayelet.jpg,https://oknesset.org/member/904,1
+14,0.011401131,0.163333333,0.195402299,0.277777778,2.85E-31,Ayman Udeh,135,Joint List,photos/Uda_Aiman.jpg,https://oknesset.org/member/938,2
+15,0,0,0.380952381,0.064814815,1.63E-41,Basel Ghattas,52,Joint List,photos/Jitas_Basil.jpg,https://oknesset.org/member/867,2
+16,0,0,0.5,0.037037037,1.63E-41,Bezalel Smotrich,49,The Jewish Home,photos/Smotrich_Bezalel.jpg,https://oknesset.org/member/936,0
+17,0.000255279,0.41609589,0.138176638,0.25,1.53E-07,David Amsalem,36,Likud,photos/Amsalem_David.jpg,https://oknesset.org/member/912,0
+18,0.001236216,0.28270934,0.294372294,0.203703704,4.13E-17,David Azoulay,53,Shas,photos/azoulay_david.jpg,https://oknesset.org/member/7,1
+19,0.0033281,0.63712522,0.088893766,0.62962963,9.70E-05,David Bitan,55,Likud,photos/Bitan_David.jpg,https://oknesset.org/member/914,0
+20,0.011351719,0.092592593,0.203488372,0.407407407,7.49E-36,Dov Khenin,454,Joint List,photos/khenin_dov.jpg,https://oknesset.org/member/780,1
+21,0,0,0.285714286,0.064814815,1.63E-41,Eitan Broshi,49,Zionist Union,photos/Broshi_Eitan.jpg,https://oknesset.org/member/917,0
+22,0.001963896,0.070023148,0.25,0.231481481,1.19E-33,Eitan Cabel,259,Zionist Union,photos/cabel_eitan.jpg,https://oknesset.org/member/64,1
+23,0,0,0.303571429,0.074074074,1.63E-41,Elazar Stern,84,Yesh Atid,photos/Stern_Eliezer.jpg,https://oknesset.org/member/899,1
+24,0,0,0,0,1.63E-41,Eli Ben-Dahan,3,The Jewish Home,photos/BenDahan_Eliahu.jpg,https://oknesset.org/member/863,1
+25,0,0,0.5,0.027777778,1.63E-41,Eli Cohen,35,Kulanu,photos/Cohen_Eli1.jpg,https://oknesset.org/member/928,0
+26,0.002076582,0.39151936,0.145121951,0.37962963,1.03E-13,Elie Elalouf,56,Kulanu,photos/Alalouf_Eli.jpg,https://oknesset.org/member/911,0
+27,0,0,0.355555556,0.092592593,1.63E-41,Erel Margalit,67,Zionist Union,photos/Margalit_Erel.jpg,https://oknesset.org/member/882,1
+28,0,0,0.379084967,0.166666667,1.63E-41,Esawi   Frej,167,Meretz,photos/Farij_Issawi.jpg,https://oknesset.org/member/888,1
+29,0,0,0.446428571,0.074074074,1.63E-41,Eyal Ben-Reuven,62,Zionist Union,photos/Ben-Reuven_Eyal.jpg,https://oknesset.org/member/916,0
+30,0.000553825,0.465860418,0.227586207,0.277777778,0.002177073,Gila Gamliel,52,Likud,photos/gamliel_gila.jpg,https://oknesset.org/member/723,1
+31,0,0,0.285714286,0.064814815,1.63E-41,Haim Jelin,73,Yesh Atid,photos/Yalin_Haim.jpg,https://oknesset.org/member/927,0
+32,1.44E-05,0.30444847,0.245014245,0.25,4.13E-17,Haim Katz,49,Likud,photos/katz_haim.jpg,https://oknesset.org/member/212,1
+33,0,0,0.166666667,0.055555556,1.63E-41,Hamad Amar,58,Yisrael Beiteinu,photos/Amar_Hamad.jpg,https://oknesset.org/member/837,0
+34,0,0,0.4,0.046296296,1.63E-41,Hanin Zoabi,45,Joint List,photos/Zuabi_Hanin.jpg,https://oknesset.org/member/846,2
+35,0,0,0.294466403,0.212962963,1.63E-41,Ilan Gilon,258,Meretz,photos/gilon_ilan.jpg,https://oknesset.org/member/200,1
+36,0.006442644,0.326933551,0.158143939,0.305555556,2.36E-20,Isaac Herzog,49,Zionist Union,photos/herzog_yitzhak.jpg,https://oknesset.org/member/740,1
+37,0,0,0.166666667,0.055555556,1.63E-41,Israel Eichler,47,United Torah Judaism,photos/eichler_israel.jpg,https://oknesset.org/member/754,0
+38,0.023105065,0.272727273,0.179421769,0.453703704,1.50E-25,Itzik Shmuli,197,Zionist Union,photos/Shmuli_Itzik.jpg,https://oknesset.org/member/901,1
+39,0,0.124756335,0,0.018518519,1.47E-25,Jackie Levy,6,Likud,photos/Levy_Jackie.jpg,https://oknesset.org/member/929,0
+40,0.00024635,0.068035427,0.357142857,0.074074074,1.19E-33,Jamal Zahalka,43,Joint List,photos/zahalka_jamal.jpg,https://oknesset.org/member/756,2
+41,0,0,0.239473684,0.185185185,1.63E-41,Karin Elharrar,141,Yesh Atid,photos/Alharar_Karin.jpg,https://oknesset.org/member/860,0
+42,0,0,0.266666667,0.092592593,1.63E-41,Ksenia Svetlova,67,Zionist Union,photos/Svetlova_Ksenia.jpg,https://oknesset.org/member/934,0
+43,0,0,0.25,0.037037037,1.63E-41,Manuel Trajtenberg,41,Zionist Union,photos/Trajtenberg_Manuel.jpg,https://oknesset.org/member/925,0
+44,0,0,0.4,0.046296296,1.63E-41,Masud Ganaim,51,Joint List,photos/Ganaim_Masud.jpg,https://oknesset.org/member/844,2
+45,5.77E-05,0.009259259,0.214285714,0.064814815,7.80E-39,Meir Cohen,59,Yesh Atid,photos/cohen_meir1.jpg,https://oknesset.org/member/874,0
+46,0,0,0.5,0.018518519,1.63E-41,Meir Porush,16,United Torah Judaism,photos/porush_meir.jpg,https://oknesset.org/member/103,1
+47,0,0,0.285714286,0.064814815,1.63E-41,Menachem Eliezer Moses,52,United Torah Judaism,photos/moses_menachem.jpg,https://oknesset.org/member/839,0
+48,0.00315709,0.158449074,0.285714286,0.12962963,8.91E-24,Merav Ben Ari,106,Kulanu,photos/BenAri_Merav.jpg,https://oknesset.org/member/915,0
+49,0.012721227,0.181093885,0.19772404,0.351851852,2.16E-27,Merav Michaeli,195,Zionist Union,photos/Michaeli_Meirav.jpg,https://oknesset.org/member/881,1
+50,0,0,0,0.009259259,1.63E-41,Meshulam Nahari,7,Shas,photos/nahari_meshulam.jpg,https://oknesset.org/member/222,2
+51,0,0.158449074,0.5,0.037037037,8.91E-24,Michael Oren,21,Kulanu,photos/Oren_Michael.jpg,https://oknesset.org/member/910,0
+52,0,0,0.28030303,0.111111111,1.63E-41,Michal Biran,92,Zionist Union,photos/Biran_Michal.jpg,https://oknesset.org/member/862,1
+53,0,0,0.283068783,0.259259259,1.63E-41,Michal Rozin,300,Meretz,photos/Rozin_Michal.jpg,https://oknesset.org/member/895,1
+54,0,0,0.285714286,0.138888889,1.63E-41,Mickey Levy,134,Yesh Atid,photos/Levy_Mickey.jpg,https://oknesset.org/member/876,0
+55,0.002688332,0.095516569,0.31884058,0.222222222,1.44E-31,Micky Rosenthal,174,Zionist Union,photos/Rosenthal_Mickey.jpg,https://oknesset.org/member/896,1
+56,0.003307496,0.481782596,0.118181818,0.416666667,5.82E-09,Miki Zohar,63,Likud,photos/Zohar_Miki.jpg,https://oknesset.org/member/922,0
+57,0,0.670156695,0.086956522,0.638888889,0.99890902,Miri Regev,139,Likud,photos/regev_miri.jpg,https://oknesset.org/member/831,1
+58,0.00514884,0.200555556,0.263636364,0.101851852,1.03E-13,Mordhay Yogev,60,The Jewish Home,photos/Yogev_Mordechai.jpg,https://oknesset.org/member/873,0
+59,0.0161584,0.30532972,0.248106061,0.305555556,1.04E-18,Moshe Gafni,143,United Torah Judaism,photos/gafni_moshe.jpg,https://oknesset.org/member/35,1
+60,0.001161111,0.065904139,0.359307359,0.203703704,1.20E-33,Nachman Shai,176,Zionist Union,photos/nachman_shai.jpg,https://oknesset.org/member/818,1
+61,0.000248892,0.167458056,0.196969697,0.111111111,2.22E-20,Nava Boker,41,Likud,photos/Boker_Nava.jpg,https://oknesset.org/member/943,0
+62,0,0.149750712,0.416666667,0.037037037,3.26E-12,Nissan Slomiansky,27,The Jewish Home,photos/slomiansky_nisan.jpg,https://oknesset.org/member/92,0
+63,0.001010689,0.320653987,0.189655172,0.268518519,3.36E-12,Nurit Koren,60,Likud,photos/Koren_Nurit.jpg,https://oknesset.org/member/944,0
+64,0,0,0,0,1.63E-41,Oded Forer,1,Yisrael Beiteinu,photos/forer_oded.jpg,https://oknesset.org/member/951,0
+65,0,0,0.236111111,0.083333333,1.63E-41,Ofer Shelah,80,Yesh Atid,photos/Shelach_Ofer.jpg,https://oknesset.org/member/900,1
+66,0,0,0,0.009259259,1.63E-41,Ofir Akunis,7,Likud,photos/akunis_ofir.jpg,https://oknesset.org/member/830,1
+67,0.001383281,0.115384615,0.321052632,0.185185185,1.39E-29,Omer Barlev,104,Zionist Union,photos/BarLev_Omer.jpg,https://oknesset.org/member/866,1
+68,0.00088231,0.204166667,0.313186813,0.12962963,4.78E-22,Oren Asaf Hazan,52,Likud,photos/Hazan_Oren.jpg,https://oknesset.org/member/924,0
+69,0,0,0.233333333,0.194444444,1.63E-41,Orly Levi-Abekasis,158,Yisrael Beiteinu,photos/Levy_Orli.jpg,https://oknesset.org/member/832,1
+70,0,0,0.357142857,0.064814815,1.63E-41,Osama Saadi,71,Joint List,photos/Saadi_Osama.jpg,https://oknesset.org/member/937,2
+71,0.000180282,0.020833333,0.266666667,0.055555556,1.87E-36,Rachel Azaria,28,Kulanu,photos/Azaria_Rachel.jpg,https://oknesset.org/member/939,0
+72,0.000594414,0.078431373,0.209090909,0.101851852,1.19E-33,Revital Swid,37,Zionist Union,photos/Swid_Revital.jpg,https://oknesset.org/member/935,0
+73,0,0,0.177777778,0.092592593,1.63E-41,Robert Ilatov,100,Yisrael Beiteinu,photos/ilatov_robert.jpg,https://oknesset.org/member/793,0
+74,0,0,0.30952381,0.064814815,1.63E-41,Roy Folkman,77,Kulanu,photos/Folkman_Roy.jpg,https://oknesset.org/member/941,0
+75,0,0,0,0,1.63E-41,Sharren  Haskel,3,Likud,photos/sharren_haskel.jpg,https://oknesset.org/member/950,0
+76,0.006144121,0.280661809,0.241820768,0.351851852,4.87E-22,Shelly Yachimovich,155,Zionist Union,photos/yacimovich_shelly.jpg,https://oknesset.org/member/782,1
+77,0.001433932,0.130208333,0.346153846,0.12962963,1.47E-25,Shuli Moalem-Refaeli,69,The Jewish Home,photos/Moalem_Shuli.jpg,https://oknesset.org/member/879,1
+78,0.00011538,0.018518519,0.30952381,0.064814815,1.56E-38,Sofa Landver,51,Yisrael Beiteinu,photos/landver_sofa.jpg,https://oknesset.org/member/78,0
+79,0.005197489,0.242865817,0.221505376,0.287037037,9.05E-24,Stav Shafir,95,Zionist Union,photos/Shafir_Stav.jpg,https://oknesset.org/member/903,1
+80,0,0,0,0.009259259,1.63E-41,Talab Abu Arar,24,Joint List,photos/AbuArar_Talab.jpg,https://oknesset.org/member/857,2
+81,0.00163366,0.152647975,0.290441176,0.157407407,4.69E-22,Tali Ploskov,87,Kulanu,photos/Ploskov_Tali.jpg,https://oknesset.org/member/942,0
+82,0,0,0.272307692,0.240740741,1.63E-41,Tamar Zandberg,300,Meretz,photos/Zandberg_Tamar.jpg,https://oknesset.org/member/871,1
+83,0,0,0,0,1.63E-41,Tzachi Hanegbi,1,Likud,photos/hanegbi_tzahi.jpg,https://oknesset.org/member/45,1
+84,0,0.21340388,0.340909091,0.111111111,2.31E-20,Tzipi Hotovely,26,Likud,photos/Hotovely_Tzipi.jpg,https://oknesset.org/member/825,1
+85,0,0,0,0.009259259,1.63E-41,Tzipi Livni,12,Zionist Union,photos/livnee_zipi.jpg,https://oknesset.org/member/213,1
+86,0.001824621,0.135449735,0.277777778,0.166666667,1.47E-25,Uri Maklev,167,United Torah Judaism,photos/uri_maklev.jpg,https://oknesset.org/member/814,1
+87,0,0.206422693,0.428571429,0.064814815,4.13E-17,Uri Yehuda Ariel,22,The Jewish Home,photos/ariel_uri-yehuda.jpg,https://oknesset.org/member/713,1
+88,0,0,0.177777778,0.092592593,1.63E-41,Yaakov Perry,67,Yesh Atid,photos/Peri_Yaakov.jpg,https://oknesset.org/member/887,0
+89,0,0,0.267857143,0.074074074,1.63E-41,Yael German,62,Yesh Atid,photos/German_Yael.jpg,https://oknesset.org/member/868,0
+90,0,0.074074074,0.017857143,0.074074074,1.91E-36,Yair Lapid,21,Yesh Atid,photos/Lapid_Yair.jpg,https://oknesset.org/member/878,0
+91,0,0,0,0.009259259,1.63E-41,Yakov Litzman,13,United Torah Judaism,photos/lizman_yaakov.jpg,https://oknesset.org/member/216,1
+92,0.015807613,0.271934556,0.233333333,0.277777778,3.06E-15,Yakov Margi,114,Shas,photos/margi_yaakov.jpg,https://oknesset.org/member/751,0
+93,0.000353352,0.551470588,0.145390071,0.444444444,0.046647832,Yariv Levin,82,Likud,photos/levin_yariv.jpg,https://oknesset.org/member/826,1
+94,0,0,0,0,1.63E-41,Yaron Mazuz,3,Likud,photos/mazuz_yaron.jpg,https://oknesset.org/member/931,1
+95,0.000430615,0.045977011,0.25,0.148148148,1.43E-31,Yehiel Hilik Bar,127,Zionist Union,photos/Bar_Yechiel.jpg,https://oknesset.org/member/865,0
+96,0.000156587,0.009259259,0.277777778,0.092592593,7.80E-39,Yifat Shasha-Biton,66,Kulanu,photos/Shasha-Biton_Yifat.jpg,https://oknesset.org/member/946,0
+97,0,0.182622874,0.5,0.018518519,1.03E-13,Yitzhak Cohen,12,Shas,photos/cohen_yitzhak.jpg,https://oknesset.org/member/65,1
+98,0,0.19555834,0.410714286,0.074074074,4.13E-17,Yitzhak Vaknin,62,Shas,photos/vaknin_yizhak.jpg,https://oknesset.org/member/50,1
+99,0.001137319,0.078904992,0.245454545,0.101851852,1.19E-33,Yoav Ben-Tzur,76,Shas,photos/Yoav_Ben_Tzur.jpg,https://oknesset.org/member/906,0
+100,0.002148956,0.487562189,0.13989899,0.416666667,3.95E-06,Yoav Kisch,56,Likud,photos/Kish_Yoav.jpg,https://oknesset.org/member/945,0
+101,0.00518809,0.114909782,0.241830065,0.166666667,2.71E-29,Yoel Hasson,112,Zionist Union,photos/hasson_yoel.jpg,https://oknesset.org/member/772,2
+102,0,0,0.272727273,0.101851852,1.63E-41,Yoel Razvozov,73,Yesh Atid,photos/Rozbozov_Yoel.jpg,https://oknesset.org/member/897,0
+103,0,0,0.291666667,0.083333333,1.63E-41,Yoseph Yonah,79,Zionist Union,photos/Yona_Yossi.jpg,https://oknesset.org/member/926,0
+104,0,0,0.388888889,0.092592593,1.63E-41,Yousef Jabareen,119,Joint List,photos/Jabareen_Yousef.jpg,https://oknesset.org/member/919,2
+105,0,0,0,0,1.63E-41,Yuli-Yoel Edelstein,2,Likud,photos/edelstein_yoel.jpg,https://oknesset.org/member/1,2
+106,0,0,0,0,1.63E-41,Zeev Binyamin Begin,3,Likud,photos/begin_beni.jpg,https://oknesset.org/member/14,2
+107,0,0,0,0.009259259,1.63E-41,Zeev Elkin,9,Likud,photos/elkin_zeev.jpg,https://oknesset.org/member/768,2
+108,0.000271659,0.037037037,0.35,0.231481481,3.12E-38,Zehava Galon,254,Meretz,photos/galon_zahava.jpg,https://oknesset.org/member/201,1
+109,0,0,0.261904762,0.064814815,1.63E-41,Zouheir Bahloul,54,Zionist Union,photos/Bahloul_Zuhair.jpg,https://oknesset.org/member/913,0

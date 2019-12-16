@@ -75,7 +75,7 @@ nx.set_node_attributes(graph, closeness_centrality_dict, 'closeness centrality')
 
 nodes_dict = dict()
 nodes = graph.nodes(data=True)
-# df = pd.DataFrame(columns=list(nodes['1'].keys()))
+
 for node in nodes:
     nodes_dict[node[0]] = node[1]
 
